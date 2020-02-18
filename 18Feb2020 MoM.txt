@@ -1,0 +1,8 @@
+Minutes of meeting: 18th Feb 2020, 11 am
+Nexr steps to do:
+1. Get hands on Jupyter notebook
+2. Create CSV after reading Sinhagadh data and classify it into different desirable sections.
+3. Remove stop words
+4. Create wword vector
+5. Classify using K-Means
+6. Tagging
